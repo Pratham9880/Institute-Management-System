@@ -1,0 +1,30 @@
+.slider-container {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .slider-wrapper {
+    display: flex;
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .slide {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .slide-image {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+    margin: 0 20px;
+  }
+  

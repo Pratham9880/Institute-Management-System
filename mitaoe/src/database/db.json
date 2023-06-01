@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "Dhanshree Khare",
+      "username": "Dhanashree_123",
+      "email": "dhanashree.khare@mitaoe.ac.in",
+      "phone": "1122334455",
+      "id": 1
+    },
+    {
+      "name": "Shrutika Kamthe",
+      "username": "Shrutika_123",
+      "email": "shrutika.kamthe@mitaoe.ac.in",
+      "phone": "1122334455",
+      "id": 2
+    },
+    {
+      "name": "Manthan Sawant",
+      "username": "Manthan_123",
+      "email": "manthan.sawant@mitaoe.ac.in",
+      "phone": "1111122222",
+      "id": 3
+    },
+    {
+      "name": "Prathm Borde",
+      "username": "Pratham_123",
+      "email": "pratham.borde@mitaoe.ac.in",
+      "phone": "1111122222",
+      "id": 4
+    },
+    {
+      "name": "vipul",
+      "username": "vipul",
+      "email": "vipul@gmail",
+      "phone": "9326212198",
+      "id": 5
+    },
+    {
+      "name": "drthxfhb",
+      "username": "Shrutika2",
+      "email": "pratham3borde@gmail.com",
+      "phone": "9326212198",
+      "id": 6
+    },
+    {
+      "name": "Dhanashree",
+      "username": "dghanshree",
+      "email": "vipul@gmail",
+      "phone": "9326212198",
+      "id": 7
+    }
+  ]
+}

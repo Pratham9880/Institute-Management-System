@@ -1,0 +1,26 @@
+.hero-image {
+    background-image: url('https://via.placeholder.com/1500x400'); /* Add your hero image URL here */
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 
+  }

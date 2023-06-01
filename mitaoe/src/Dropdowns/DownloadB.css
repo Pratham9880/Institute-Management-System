@@ -1,0 +1,66 @@
+/* Style for the page heading */
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  /* Style for the table */
+  table {
+    border-collapse: collapse;
+    margin: 40px auto;
+  }
+  
+  th {
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+    font-weight: bold;
+  }
+  
+  td {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  /* Style for the admission criteria */
+  p {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 40px auto 20px auto;
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 20px auto;
+    padding-left: 0;
+  }
+  
+  li {
+    font-size: 18px;
+    margin: 20px 0;
+  }
+  
+  li ul {
+    margin: 10px 0;
+  }
+  
+  li ul li {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  /* Style for the footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  
